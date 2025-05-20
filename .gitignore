@@ -1,0 +1,6 @@
+# Private data related to authentication
+.env
+.cache
+
+# Playlist text files
+playlists/
